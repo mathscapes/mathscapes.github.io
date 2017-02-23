@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Iosevka Term';
+	src: url('Iosevka-Term.eot');
+	src: url('Iosevka-Term.eot?#iefix') format('embedded-opentype'),
+		url('Iosevka-Term.woff') format('woff'),
+		url('Iosevka-Term.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
